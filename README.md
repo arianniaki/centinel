@@ -8,6 +8,7 @@ censorship.
     $ sudo apt-get install python-pip libssl-dev swig python-dev libffi-dev tcpdump libcurl4-openssl-dev traceroute
     $ sudo pip install -U pip
     $ sudo pip install centinel
+    $ sudo pip install dnspython, httplib2, geonamescache, requests, geopy, bs4, matplotlib, geopandas, pycountry,
     $ centinel
 
 ##### Fedora 23
